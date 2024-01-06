@@ -22,7 +22,7 @@ body{
 
 .gif-container{
     text-align: center;
-    margin: 0;
+    margin-top: 10px;
     position: absolute; 
     top: 50%;
     left: 50%;
@@ -70,7 +70,7 @@ img{
     color: black;
     cursor: pointer;
     display: inline-block;
-    font-family: nunito,roboto,proxima-nova,"proxima nova",sans-serif;
+    font-family: 'Trebuchet MS', sans-serif;
     font-size: 16px;
     font-weight: 800;
     line-height: 16px;
